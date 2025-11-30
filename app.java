@@ -7,3 +7,4 @@ adding some extra lines by dev-2
 
 it is so useful
 new code by developer 1 without pulling the code
+We are adding some more data to learn about git fetch and merge
